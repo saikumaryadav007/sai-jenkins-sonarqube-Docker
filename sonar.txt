@@ -1,0 +1,5 @@
+sonar-scanner \
+  -Dsonar.projectKey=sai-key-sonar \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=http://13.232.63.43:9000 \
+  -Dsonar.login=2ab7f85b46e24ba4812c83d47a0062718da01308
